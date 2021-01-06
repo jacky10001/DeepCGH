@@ -20,3 +20,13 @@ Using subclass to create custom loss
 
 * Create DeepCGH model (**model.py**)  
 return KERAS functional model
+
+## Setup
+* Anaconda on Windows 10  
+* Python 3.8.5  
+* CUDA 11 + cudnn v8.0.5.39  
+
+## Requirements  
+* tensorflow 2.4  
+* numpy 1.19.5  
+* scikit-image  
